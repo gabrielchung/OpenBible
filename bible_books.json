@@ -1,269 +1,266 @@
-{
-    "bible_books":
-         [
-            {
-                "key": "Genesis",
-                "max_chapter_number": 50
-            },
-            {
-                "key": "Exodus",
-                "max_chapter_number": 40
-            },
-            {
-                "key": "Leviticus",
-                "max_chapter_number": 27
-            },
-            {
-                "key": "Numbers",
-                "max_chapter_number": 36
-            },
-            {
-                "key": "Deuteronomy",
-                "max_chapter_number": 34
-            },
-            {
-                "key": "Joshua",
-                "max_chapter_number": 24
-            },
-            {
-                "key": "Judges",
-                "max_chapter_number": 21
-            },
-            {
-                "key": "Ruth",
-                "max_chapter_number": 4
-            },
-            {
-                "key": "1 Samuel",
-                "max_chapter_number": 31
-            },
-            {
-                "key": "2 Samuel",
-                "max_chapter_number": 24
-            },
-            {
-                "key": "1 Kings",
-                "max_chapter_number": 22
-            },
-            {
-                "key": "2 Kings",
-                "max_chapter_number": 25
-            },
-            {
-                "key": "1 Chronicles",
-                "max_chapter_number": 29
-            },
-            {
-                "key": "2 Chronicles",
-                "max_chapter_number": 36
-            },
-            {
-                "key": "Ezra",
-                "max_chapter_number": 10
-            },
-            {
-                "key": "Nehemiah",
-                "max_chapter_number": 13
-            },
-            {
-                "key": "Esther",
-                "max_chapter_number": 10
-            },
-            {
-                "key": "Job",
-                "max_chapter_number": 42
-            },
-            {
-                "key": "Psalms",
-                "max_chapter_number": 150
-            },
-            {
-                "key": "Proverbs",
-                "max_chapter_number": 31
-            },
-            {
-                "key": "Ecclesiastes",
-                "max_chapter_number": 12
-            },
-            {
-                "key": "Song of Solomon",
-                "max_chapter_number": 8
-            },
-            {
-                "key": "Isaiah",
-                "max_chapter_number": 66
-            },
-            {
-                "key": "Jeremiah",
-                "max_chapter_number": 52
-            },
-            {
-                "key": "Lamentations",
-                "max_chapter_number": 5
-            },
-            {
-                "key": "Ezekiel",
-                "max_chapter_number": 48
-            },
-            {
-                "key": "Daniel",
-                "max_chapter_number": 12
-            },
-            {
-                "key": "Hosea",
-                "max_chapter_number": 14
-            },
-            {
-                "key": "Joel",
-                "max_chapter_number": 3
-            },
-            {
-                "key": "Amos",
-                "max_chapter_number": 9
-            },
-            {
-                "key": "Obadiah",
-                "max_chapter_number": 1
-            },
-            {
-                "key": "Jonah",
-                "max_chapter_number": 4
-            },
-            {
-                "key": "Micah",
-                "max_chapter_number": 7
-            },
-            {
-                "key": "Nahum",
-                "max_chapter_number": 3
-            },
-            {
-                "key": "Habakkuk",
-                "max_chapter_number": 3
-            },
-            {
-                "key": "Zephaniah",
-                "max_chapter_number": 3
-            },
-            {
-                "key": "Haggai",
-                "max_chapter_number": 2
-            },
-            {
-                "key": "Zechariah",
-                "max_chapter_number": 14
-            },
-            {
-                "key": "Malachi",
-                "max_chapter_number": 4
-            },
-            {
-                "key": "Matthew",
-                "max_chapter_number": 28
-            },
-            {
-                "key": "Mark",
-                "max_chapter_number": 16
-            },
-            {
-                "key": "Luke",
-                "max_chapter_number": 24
-            },
-            {
-                "key": "John",
-                "max_chapter_number": 21
-            },
-            {
-                "key": "Acts",
-                "max_chapter_number": 28
-            },
-            {
-                "key": "Romans",
-                "max_chapter_number": 16
-            },
-            {
-                "key": "1 Corinthians",
-                "max_chapter_number": 16
-            },
-            {
-                "key": "2 Corinthians",
-                "max_chapter_number": 13 
-            },
-            {
-                "key": "Galatians",
-                "max_chapter_number": 6
-            },
-            {
-                "key": "Ephesians",
-                "max_chapter_number": 6
-            },
-            {
-                "key": "Philippians",
-                "max_chapter_number": 4
-            },
-            {
-                "key": "Colossians",
-                "max_chapter_number": 4
-            },
-            {
-                "key": "1 Thessalonians",
-                "max_chapter_number": 5
-            },
-            {
-                "key": "2 Thessalonians",
-                "max_chapter_number": 3
-            },
-            {
-                "key": "1 Timothy",
-                "max_chapter_number": 6
-            },
-            {
-                "key": "2 Timothy",
-                "max_chapter_number": 4
-            },
-            {
-                "key": "Titus",
-                "max_chapter_number": 3
-            },
-            {
-                "key": "Philemon",
-                "max_chapter_number": 1
-            },
-            {
-                "key": "Hebrews",
-                "max_chapter_number": 13
-            },
-            {
-                "key": "James",
-                "max_chapter_number": 5
-            },
-            {
-                "key": "1 Peter",
-                "max_chapter_number": 5
-            },
-            {
-                "key": "2 Peter",
-                "max_chapter_number": 3
-            },
-            {
-                "key": "1 John",
-                "max_chapter_number": 5
-            },
-            {
-                "key": "2 John",
-                "max_chapter_number": 1
-            },
-            {
-                "key": "3 John",
-                "max_chapter_number": 1
-            },
-            {
-                "key": "Jude",
-                "max_chapter_number": 1
-            },
-            {
-                "key": "Revelation",
-                "max_chapter_number": 22
-            }
-        ]
-}
+[
+    {
+        "key": "Genesis",
+        "max_chapter_number": 50
+    },
+    {
+        "key": "Exodus",
+        "max_chapter_number": 40
+    },
+    {
+        "key": "Leviticus",
+        "max_chapter_number": 27
+    },
+    {
+        "key": "Numbers",
+        "max_chapter_number": 36
+    },
+    {
+        "key": "Deuteronomy",
+        "max_chapter_number": 34
+    },
+    {
+        "key": "Joshua",
+        "max_chapter_number": 24
+    },
+    {
+        "key": "Judges",
+        "max_chapter_number": 21
+    },
+    {
+        "key": "Ruth",
+        "max_chapter_number": 4
+    },
+    {
+        "key": "1 Samuel",
+        "max_chapter_number": 31
+    },
+    {
+        "key": "2 Samuel",
+        "max_chapter_number": 24
+    },
+    {
+        "key": "1 Kings",
+        "max_chapter_number": 22
+    },
+    {
+        "key": "2 Kings",
+        "max_chapter_number": 25
+    },
+    {
+        "key": "1 Chronicles",
+        "max_chapter_number": 29
+    },
+    {
+        "key": "2 Chronicles",
+        "max_chapter_number": 36
+    },
+    {
+        "key": "Ezra",
+        "max_chapter_number": 10
+    },
+    {
+        "key": "Nehemiah",
+        "max_chapter_number": 13
+    },
+    {
+        "key": "Esther",
+        "max_chapter_number": 10
+    },
+    {
+        "key": "Job",
+        "max_chapter_number": 42
+    },
+    {
+        "key": "Psalms",
+        "max_chapter_number": 150
+    },
+    {
+        "key": "Proverbs",
+        "max_chapter_number": 31
+    },
+    {
+        "key": "Ecclesiastes",
+        "max_chapter_number": 12
+    },
+    {
+        "key": "Song of Solomon",
+        "max_chapter_number": 8
+    },
+    {
+        "key": "Isaiah",
+        "max_chapter_number": 66
+    },
+    {
+        "key": "Jeremiah",
+        "max_chapter_number": 52
+    },
+    {
+        "key": "Lamentations",
+        "max_chapter_number": 5
+    },
+    {
+        "key": "Ezekiel",
+        "max_chapter_number": 48
+    },
+    {
+        "key": "Daniel",
+        "max_chapter_number": 12
+    },
+    {
+        "key": "Hosea",
+        "max_chapter_number": 14
+    },
+    {
+        "key": "Joel",
+        "max_chapter_number": 3
+    },
+    {
+        "key": "Amos",
+        "max_chapter_number": 9
+    },
+    {
+        "key": "Obadiah",
+        "max_chapter_number": 1
+    },
+    {
+        "key": "Jonah",
+        "max_chapter_number": 4
+    },
+    {
+        "key": "Micah",
+        "max_chapter_number": 7
+    },
+    {
+        "key": "Nahum",
+        "max_chapter_number": 3
+    },
+    {
+        "key": "Habakkuk",
+        "max_chapter_number": 3
+    },
+    {
+        "key": "Zephaniah",
+        "max_chapter_number": 3
+    },
+    {
+        "key": "Haggai",
+        "max_chapter_number": 2
+    },
+    {
+        "key": "Zechariah",
+        "max_chapter_number": 14
+    },
+    {
+        "key": "Malachi",
+        "max_chapter_number": 4
+    },
+    {
+        "key": "Matthew",
+        "max_chapter_number": 28
+    },
+    {
+        "key": "Mark",
+        "max_chapter_number": 16
+    },
+    {
+        "key": "Luke",
+        "max_chapter_number": 24
+    },
+    {
+        "key": "John",
+        "max_chapter_number": 21
+    },
+    {
+        "key": "Acts",
+        "max_chapter_number": 28
+    },
+    {
+        "key": "Romans",
+        "max_chapter_number": 16
+    },
+    {
+        "key": "1 Corinthians",
+        "max_chapter_number": 16
+    },
+    {
+        "key": "2 Corinthians",
+        "max_chapter_number": 13 
+    },
+    {
+        "key": "Galatians",
+        "max_chapter_number": 6
+    },
+    {
+        "key": "Ephesians",
+        "max_chapter_number": 6
+    },
+    {
+        "key": "Philippians",
+        "max_chapter_number": 4
+    },
+    {
+        "key": "Colossians",
+        "max_chapter_number": 4
+    },
+    {
+        "key": "1 Thessalonians",
+        "max_chapter_number": 5
+    },
+    {
+        "key": "2 Thessalonians",
+        "max_chapter_number": 3
+    },
+    {
+        "key": "1 Timothy",
+        "max_chapter_number": 6
+    },
+    {
+        "key": "2 Timothy",
+        "max_chapter_number": 4
+    },
+    {
+        "key": "Titus",
+        "max_chapter_number": 3
+    },
+    {
+        "key": "Philemon",
+        "max_chapter_number": 1
+    },
+    {
+        "key": "Hebrews",
+        "max_chapter_number": 13
+    },
+    {
+        "key": "James",
+        "max_chapter_number": 5
+    },
+    {
+        "key": "1 Peter",
+        "max_chapter_number": 5
+    },
+    {
+        "key": "2 Peter",
+        "max_chapter_number": 3
+    },
+    {
+        "key": "1 John",
+        "max_chapter_number": 5
+    },
+    {
+        "key": "2 John",
+        "max_chapter_number": 1
+    },
+    {
+        "key": "3 John",
+        "max_chapter_number": 1
+    },
+    {
+        "key": "Jude",
+        "max_chapter_number": 1
+    },
+    {
+        "key": "Revelation",
+        "max_chapter_number": 22
+    }
+]
