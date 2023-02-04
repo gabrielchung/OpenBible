@@ -9,8 +9,10 @@ genesis = kjv['content'][0]
 result = []
 
 for chapter in genesis:
+    curr_chapter = []
     for verse in chapter:
-        result.append(verse)
+        curr_chapter.append(verse)
+    result.append(curr_chapter)
 
 with open('kjv_genesis.json', 'w') as f:
     json.dump(result, f, indent=4)
